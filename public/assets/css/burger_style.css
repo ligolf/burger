@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(34, 97, 105);
+    margin: 0;
+    padding: 0;
+    font-family: "Georgia", "Times New Roman",
+        Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+li {
+    padding: 10px;
+    margin: 0px;
+    color: blanchedalmond
+}
+
+.label {
+    font-weight: bold;
+    color: blanchedalmond
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    color: blanchedalmond
+}
+
+.form-group {
+    margin-bottom: 5px;
+    color: blanchedalmond
+}
+
+h1 {
+
+    color: blanchedalmond
+}
+
+h4 {
+
+    color: blanchedalmond
+}
